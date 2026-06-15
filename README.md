@@ -21,7 +21,7 @@ While the SQL project answered *"what does the data say?"*, this dashboard answe
 
 ## 🖥️ Dashboard Preview
 
-![Dashboard Preview](visuals/dashboard_preview.png)
+![Dashboard Preview]([visuals/dashboard_preview.png](https://github.com/RUSHI-PATEL-03/hospital_readmission_excel/blob/main/visuals/Hospital%20Readmission%20Dashboard.png))
 
 ---
 
